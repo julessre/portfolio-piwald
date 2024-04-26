@@ -1,3 +1,3 @@
 export default function Home() {
-  return <h1 className="text-3xl font-medium">Sabine Piwald</h1>;
+  return <h1 className="text-3xl font-medium font-epi">Sabine Piwald</h1>;
 }
